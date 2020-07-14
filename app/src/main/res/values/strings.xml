@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Urban Dictionary</string>
+
+    <string name="ALERT_BUTTON_CLOSE">Close</string>
+    <string name="NO_DATA">No data found!</string>
+    <string name="CONNECTION_ERROR">The internet connection appears to be offline.</string>
+    <string name="SERVER_ERROR">We are having trouble connecting to server. Please try again later.</string>
+
+    <string name="TV_AUTHOR">by %1$s</string>
+    <string name="MENU_SORT">Sort</string>
+    <string name="MENU_SEARCH">Search</string>
+
+    <string name="MENU_SORT_THUMBS_UP">Most Thumbs Up</string>
+    <string name="MENU_SORT_THUMBS_DOWN">Most Thumbs Down</string>
+
+    <string name="TV_WELCOME_TITLE">Welcome to Urban Dictionary!</string>
+    <string name="TV_WELCOME_TEXT">Search for definitions, words or phrases by entering your query above</string>
+
+</resources>
